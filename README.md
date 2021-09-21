@@ -1,4 +1,4 @@
-I developed it using Svelte (https://svelte.dev) because it's the frontend framework I'm most familiar with at the moment given the time constraints.
+I have developed it using Svelte (https://svelte.dev) because it's the frontend framework I'm most familiar with at the moment given the time constraints.
 
 # How to run
 
